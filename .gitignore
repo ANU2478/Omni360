@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+omni360.db
+node_modules/
+dist/
+frontend/.vite/
+backend/uploads/*
+!backend/uploads/.gitkeep
